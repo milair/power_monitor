@@ -5,10 +5,7 @@
 Platform: **ESP32-C3 / Arduino Framework**
 
 ---
-
-# 🇺🇦 Українська
-
-## Про проєкт
+## 🇺🇦 Про проєкт
 
 **ESP32-C3 Power Monitor** — автономна система моніторингу наявності електроживлення, побудована на мікроконтролері ESP32-C3.
 
@@ -70,9 +67,7 @@ ESP32-C3 періодично перевіряє доступність зада
 
 ---
 
-# 🇬🇧 English
-
-## About the Project
+## 🇬🇧 About the Project
 
 **ESP32-C3 Power Monitor** is a standalone Wi-Fi-based power outage monitoring system built around the ESP32-C3 microcontroller.
 
